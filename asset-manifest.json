@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/monstores/static/css/main.6154ea0b.css",
+    "main.js": "/github.io/monstores/static/js/main.9f5f2f1d.js",
+    "static/js/453.df3e28c0.chunk.js": "/github.io/monstores/static/js/453.df3e28c0.chunk.js",
+    "index.html": "/github.io/monstores/index.html",
+    "main.6154ea0b.css.map": "/github.io/monstores/static/css/main.6154ea0b.css.map",
+    "main.9f5f2f1d.js.map": "/github.io/monstores/static/js/main.9f5f2f1d.js.map",
+    "453.df3e28c0.chunk.js.map": "/github.io/monstores/static/js/453.df3e28c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6154ea0b.css",
+    "static/js/main.9f5f2f1d.js"
+  ]
+}
