@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/monsters/static/css/main.6154ea0b.css",
-    "main.js": "/github.io/monsters/static/js/main.c12c8b80.js",
-    "static/js/453.df3e28c0.chunk.js": "/github.io/monsters/static/js/453.df3e28c0.chunk.js",
-    "index.html": "/github.io/monsters/index.html",
-    "main.6154ea0b.css.map": "/github.io/monsters/static/css/main.6154ea0b.css.map",
-    "main.c12c8b80.js.map": "/github.io/monsters/static/js/main.c12c8b80.js.map",
-    "453.df3e28c0.chunk.js.map": "/github.io/monsters/static/js/453.df3e28c0.chunk.js.map"
+    "main.css": "./static/css/main.6154ea0b.css",
+    "main.js": "./static/js/main.b9ed4b7a.js",
+    "static/js/453.df3e28c0.chunk.js": "./static/js/453.df3e28c0.chunk.js",
+    "index.html": "./index.html",
+    "main.6154ea0b.css.map": "./static/css/main.6154ea0b.css.map",
+    "main.b9ed4b7a.js.map": "./static/js/main.b9ed4b7a.js.map",
+    "453.df3e28c0.chunk.js.map": "./static/js/453.df3e28c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6154ea0b.css",
-    "static/js/main.c12c8b80.js"
+    "static/js/main.b9ed4b7a.js"
   ]
 }
